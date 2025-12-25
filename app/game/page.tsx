@@ -1,5 +1,5 @@
 import { redirect } from 'next/navigation';
 
 export default function GamePage() {
-  redirect('/game/CircleSurvival.html');
+  redirect('/CircleSurvival.html');
 }
