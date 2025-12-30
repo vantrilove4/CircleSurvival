@@ -1,6 +1,6 @@
 // app/layout.tsx
 //import './globals.css'
-
+import { Analytics } from "@vercel/analytics/next"
 export const metadata = {
   title: 'CircleSurvival 3D',
   description: 'Play CircleSurvival 3D - Endless survival game in browser!',
